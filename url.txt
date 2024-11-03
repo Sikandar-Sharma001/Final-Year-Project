@@ -1,0 +1,10 @@
+base url: https://api.cloudinary.com/v1_1/diusdcdfq
+
+mongo_url:  mongodb+srv://sikandarsharma765:Counselling123@cluster0.dnitzrk.mongodb.net/?retryWrites=true&w=majority
+
+names:
+PMJ001
+Tapas123
+Santanu101
+Abhi001
+Rupali010
